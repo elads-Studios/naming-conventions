@@ -26,4 +26,4 @@ Every asset and function name should be written in PascalCase.
 
 ---
 
-Next: [snake_case](snake_case)
+Next: [snake_case](./snake_case.md)

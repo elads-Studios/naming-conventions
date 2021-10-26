@@ -20,4 +20,4 @@ To build such name, you have to build it from right to left. Starting with the t
 
 ---
 
-Next: [Self documenting names](Self%20documenting%20names)
+Next: [Self documenting names](./Self%20documenting%20names.md)

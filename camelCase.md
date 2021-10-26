@@ -24,4 +24,4 @@ Every parameter or field is written in camelCase.
 
 ---
 
-Next: [kebab-case](kebab-case)
+Next: [kebab-case](./kebab-case.md)

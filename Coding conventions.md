@@ -85,8 +85,8 @@ Every class, abstract class, structure need to be interfaced! Our goal is to des
 
 ## Local variables
 
-- [snake_case](snake_case)
+- [snake_case](snake_case.md)
 
 ---
 
-Next: [Coding patterns](Coding%20patterns)
+Next: [Coding patterns](Coding%20patterns.md)

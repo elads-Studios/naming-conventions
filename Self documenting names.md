@@ -18,4 +18,4 @@ Every name should self document themselves to avoid writing redundant documentat
 
 ---
 
-Next: [Long names](Long%20names)
+Next: [Long names](./Long%20names.md)

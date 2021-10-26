@@ -22,4 +22,4 @@ To find for example an asset, a developer can type in what they want to find, an
 
 ---
 
-Next: [Enumeration](Enumeration)
+Next: [Enumeration](./Enumeration.md)

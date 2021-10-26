@@ -9,8 +9,8 @@ Another example would be a pre-fabricated (short prefab) object is suffixed as `
 ## Known exceptions
 
 - Prefab -> `Object` suffix
-- Scripts/Runtime -> They follow the [coding conventions](Coding%20conventions)
+- Scripts/Runtime -> They follow the [coding conventions](./Coding%20conventions.md)
 
 ---
 
-Next: [Coding conventions](Coding%20conventions)
+Next: [Coding conventions](./Coding%20conventions.md)

@@ -4,4 +4,4 @@ Working inside a team means to speak the same language as your team members, the
 
 ---
 
-Next: [Language](Language)
+Next: [Language](./Language.md)

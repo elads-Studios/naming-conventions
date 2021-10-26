@@ -23,4 +23,4 @@ kebab-case is for example used for branch naming or for suffixing directory name
 
 ---
 
-Next: [PascalCase](PascalCase)
+Next: [PascalCase](./PascalCase.md)

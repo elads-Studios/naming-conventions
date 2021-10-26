@@ -23,4 +23,4 @@ A manager is a special type of controller that is a singleton that manages a gro
 
 ---
 
-Next: [camelCase](camelCase)
+Next: [camelCase](./camelCase.md)
