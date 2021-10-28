@@ -8,9 +8,11 @@ Every code module must be enclosed inside their appropriate namespace to avoid n
 
 It is prohibited to have code modules in other code modules, as that would make naming more difficult and decrease the maintainibility of code.
 
+Additionally every namespace, class, abstract class, structure, interface, enumerator, delegate, field, property and function need to be documented using XML documentation, so any code documentation generator can produce well documented code.
+
 ## Interfacing
 
-Every class, abstract class, structure need to be interfaced! Our goal is to design code that has a nice to work with API, by exposing important bits and reducing dependencies.
+Every class, abstract class, structure need to be interfaced! Our goal is to design code that has a nice to work with API, by just exposing important bits.
 
 ## Classes, structures, properties and functions
 

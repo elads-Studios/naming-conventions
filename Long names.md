@@ -2,7 +2,7 @@
 
 Every word must be written fully, so everyone understands what they mean.
 
-In the old days we had character limitations for rows so software developers came up short names for long names. Since we have modern development environments and game engines in our toolbelt, we don't need to shorten names anymore.
+In the old days we had character limitations for rows and file names, so software developers came up short names for long names. Since we have modern development environments and game engines in our toolbelt, we don't need to shorten names anymore.
 
 ## Use case
 

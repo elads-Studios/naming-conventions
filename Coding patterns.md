@@ -2,6 +2,8 @@
 
 In Unity Engine we use the Controllers pattern.
 
+The Controllers pattern describes a set of modules which control game objects, hence the name `Controllers`.
+
 ## Controller
 
 A controller describes a script or behaviour of an instance.

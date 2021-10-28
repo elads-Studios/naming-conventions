@@ -2,7 +2,7 @@
 
 camelCase looks like a camel 🐪, hence the name camelCase.
 
-The first word is starts with a lowercase letter, where the preceeding words start with a capital letter. There are no whitespaces and special characters between them.
+The first word starts with a lowercase letter, where the preceeding words start with a capital letter. There are no whitespaces and special characters between them.
 
 ## Use case
 
